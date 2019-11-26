@@ -1,0 +1,15 @@
+footer {
+    background-color: #353A3F;
+    color: rgb(129, 202, 41);
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 10px;
+    font-size: smaller;
+}
+
+.nombre {
+    color: blue;
+    color: rgb(129, 202, 41);
+}

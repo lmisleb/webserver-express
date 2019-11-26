@@ -1,0 +1,12 @@
+Para inicializar:
+
+nodemon server.js
+
+Para permitir que te tome los cambios a los distintos archivos:
+
+nodemon server js,html,hbs,css
+
+Heroku
+nuto2307_
+
+heroku -v
